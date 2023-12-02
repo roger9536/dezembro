@@ -1,0 +1,764 @@
+#EXTM3U
+#EXTINF:-1,DE: 123 TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18446
+#EXTINF:-1,DE: 13th Street
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/3498
+#EXTINF:-1,DE: 3sat
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/892
+#EXTINF:-1,DE: Adult Swim Daily Animated
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/296942
+#EXTINF:-1,DE: Adult Swim Daily Animated-Primal
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298416
+#EXTINF:-1,DE: Allgau TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18445
+#EXTINF:-1,DE: Amazon Prime Video 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/300237
+#EXTINF:-1,DE: Amazon Prime Video 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/300238
+#EXTINF:-1,DE: ANIMAL PLANET
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/14370
+#EXTINF:-1,DE: ANIXE Serie
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/296372
+#EXTINF:-1,DE: ANIXE+
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/5987
+#EXTINF:-1,DE: ARD Alpha
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/34799
+#EXTINF:-1,DE: Aristo TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/275960
+#EXTINF:-1,DE: Arte
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/893
+#EXTINF:-1,DE: Astro TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/195789
+#EXTINF:-1,DE: Augsburg TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/60393
+#EXTINF:-1,DE: Auto Motor Sport
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2385
+#EXTINF:-1,DE: Baby TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/31389
+#EXTINF:-1,DE: Baden TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18449
+#EXTINF:-1,DE: Ballermann TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298701
+#EXTINF:-1,DE: Bayerisches Fernsehen Nord
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18454
+#EXTINF:-1,DE: Bayerisches Fernsehen Sud
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/163105
+#EXTINF:-1,DE: bergblick
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281754
+#EXTINF:-1,DE: Bibel TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/195787
+#EXTINF:-1,DE: Bild TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290769
+#EXTINF:-1,DE: BLK Regional TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299433
+#EXTINF:-1,DE: Bon Gusto
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/191957
+#EXTINF:-1,DE: Boomerang
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/411
+#EXTINF:-1,DE: Cartoon Network
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2089
+#EXTINF:-1,DE: Cartoonito
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298702
+#EXTINF:-1,DE: Channel 21
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/70117
+#EXTINF:-1,DE: Chemnitz Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286545
+#EXTINF:-1,DE: Cine Max Jurassic Park
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/266438
+#EXTINF:-1,DE: Comedy Central
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1670
+#EXTINF:-1,DE: Craction
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298703
+#EXTINF:-1,DE: Crime+ Investigation
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/5181
+#EXTINF:-1,DE: CroTV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286355
+#EXTINF:-1,DE: dabeiTV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298704
+#EXTINF:-1,DE: Das Erste
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2386
+#EXTINF:-1,DE: DAZN 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/48355
+#EXTINF:-1,DE: DAZN 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2387
+#EXTINF:-1,DE: Deluxe Lounge
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290381
+#EXTINF:-1,DE: Deluxe Music
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2111
+#EXTINF:-1,DE: Der Aktionär TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/194308
+#EXTINF:-1,DE: Deutsches Musik Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/163081
+#EXTINF:-1,DE: Discovery World
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/410
+#EXTINF:-1,DE: Disney Channel
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2085
+#EXTINF:-1,DE: Disney Junior
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2099
+#EXTINF:-1,DE: Disney XD
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/278675
+#EXTINF:-1,DE: Disney+
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/169904
+#EXTINF:-1,DE: DMAX
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/895
+#EXTINF:-1,DE: Dresden
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/173531
+#EXTINF:-1,DE: DW Arabic
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1256
+#EXTINF:-1,DE: DW Deutsch
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/10941
+#EXTINF:-1,DE: DW English
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/19276
+#EXTINF:-1,DE: DW Español
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/9149
+#EXTINF:-1,DE: E!
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2114
+#EXTINF:-1,DE: Edge Sport
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281610
+#EXTINF:-1,DE: Erz TV Stollberg
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286549
+#EXTINF:-1,DE: ESports 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/14357
+#EXTINF:-1,DE: euronews
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/4421
+#EXTINF:-1,DE: Eurosport 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/412
+#EXTINF:-1,DE: Eurosport 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2082
+#EXTINF:-1,DE: FashionTV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/195862
+#EXTINF:-1,DE: FC Bayern
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298372
+#EXTINF:-1,DE: Fix & Foxi
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/173515
+#EXTINF:-1,DE: FOLX
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/168933
+#EXTINF:-1,DE: Fox
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298373
+#EXTINF:-1,DE: Franken Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2144
+#EXTINF:-1,DE: Franken Plus
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298374
+#EXTINF:-1,DE: FS1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/280085
+#EXTINF:-1,DE: Genius Plus TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/120507
+#EXTINF:-1,DE: Geo TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/266963
+#EXTINF:-1,DE: Health TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/279766
+#EXTINF:-1,DE: Heimat kanal
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1668
+#EXTINF:-1,DE: HGTV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/172308
+#EXTINF:-1,DE: History
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/413
+#EXTINF:-1,DE: HR Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/8187
+#EXTINF:-1,DE: HSE
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/166259
+#EXTINF:-1,DE: HSE Extra
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/166269
+#EXTINF:-1,DE: HSE Trend
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/275924
+#EXTINF:-1,DE: INPLUS
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298705
+#EXTINF:-1,DE: Jukebox
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/12613
+#EXTINF:-1,DE: Juwelo
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/21327
+#EXTINF:-1,DE: K-TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18477
+#EXTINF:-1,DE: Kabel Eins
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/891
+#EXTINF:-1,DE: Kabel Eins Classics
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/10026
+#EXTINF:-1,DE: Kabel Eins Doku
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290259
+#EXTINF:-1,DE: Kiel TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/165485
+#EXTINF:-1,DE: KIKA
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2101
+#EXTINF:-1,DE: KINO BOX 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299595
+#EXTINF:-1,DE: KINO BOX 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2141
+#EXTINF:-1,DE: KINO BOX 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299597
+#EXTINF:-1,DE: KINO BOX 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299598
+#EXTINF:-1,DE: KINO BOX 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/283301
+#EXTINF:-1,DE: KINO BOX 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/283302
+#EXTINF:-1,DE: KINO BOX 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/283303
+#EXTINF:-1,DE: KINO BOX 8
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/168942
+#EXTINF:-1,DE: KINO BOX 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/163407
+#EXTINF:-1,DE: KINO BOX 10
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299603
+#EXTINF:-1,DE: Kino Highlights 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298799
+#EXTINF:-1,DE: Kino Highlights 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298800
+#EXTINF:-1,DE: Kino Highlights 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298801
+#EXTINF:-1,DE: Kino Highlights 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298802
+#EXTINF:-1,DE: Kino Highlights 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298803
+#EXTINF:-1,DE: Kinowelt TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2127
+#EXTINF:-1,DE: Kultur MD
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/173538
+#EXTINF:-1,DE: Light Channel
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/171827
+#EXTINF:-1,DE: Luxe TV (Luxembourg)
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290407
+#EXTINF:-1,DE: Magenta Sport 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290686
+#EXTINF:-1,DE: Magenta Sport 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290687
+#EXTINF:-1,DE: Magenta Sport 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281748
+#EXTINF:-1,DE: Magenta Sport 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290688
+#EXTINF:-1,DE: Magenta Sport 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290689
+#EXTINF:-1,DE: Magenta Sport 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290690
+#EXTINF:-1,DE: Magenta Sport 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281749
+#EXTINF:-1,DE: Magenta Sport 8
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290691
+#EXTINF:-1,DE: Magenta Sport 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290692
+#EXTINF:-1,DE: Magenta Sport 10
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295566
+#EXTINF:-1,DE: Magenta Sport 11
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295567
+#EXTINF:-1,DE: Magenta Sport 12
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295568
+#EXTINF:-1,DE: Magenta Sport 13
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295569
+#EXTINF:-1,DE: Magenta Sport 14
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295570
+#EXTINF:-1,DE: Magenta Sport 15
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295571
+#EXTINF:-1,DE: Magenta Sport 16
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295572
+#EXTINF:-1,DE: Magenta Sport 17
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/295573
+#EXTINF:-1,DE: Magenta Sport 18
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/297337
+#EXTINF:-1,DE: Magenta Sport 20
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/297325
+#EXTINF:-1,DE: Max Select 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/67435
+#EXTINF:-1,DE: Max Select 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/279250
+#EXTINF:-1,DE: Max Select 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/278609
+#EXTINF:-1,DE: Max Select 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/148176
+#EXTINF:-1,DE: Max Select 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/67437
+#EXTINF:-1,DE: MDF 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/60392
+#EXTINF:-1,DE: MDR Fernsehen Sachsen Anhalt
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/3483
+#EXTINF:-1,DE: More Than Sports TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/282268
+#EXTINF:-1,DE: Motorvision TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/4480
+#EXTINF:-1,DE: Movies CH
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286563
+#EXTINF:-1,DE: MR Bean
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/197513
+#EXTINF:-1,DE: MTV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/3486
+#EXTINF:-1,DE: MyTVplus
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/294831
+#EXTINF:-1,DE: München TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/6811
+#EXTINF:-1,DE: n-tv
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2080
+#EXTINF:-1,DE: N24 Doku
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/47558
+#EXTINF:-1,DE: nahe TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/226105
+#EXTINF:-1,DE: NAT GEO
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2095
+#EXTINF:-1,DE: NAT GEO Wild
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1666
+#EXTINF:-1,DE: Naturkanal1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/301168
+#EXTINF:-1,DE: NDR Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2113
+#EXTINF:-1,DE: NETFLİX 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287766
+#EXTINF:-1,DE: NETFLİX 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287767
+#EXTINF:-1,DE: NETFLİX 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287768
+#EXTINF:-1,DE: NETFLİX 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287769
+#EXTINF:-1,DE: NETFLİX 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287770
+#EXTINF:-1,DE: NETFLİX 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287772
+#EXTINF:-1,DE: NETFLİX 10
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287773
+#EXTINF:-1,DE: Nick Emma einfach magisch
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286565
+#EXTINF:-1,DE: Nick Junior
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/63288
+#EXTINF:-1,DE: nickelodeon
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/280087
+#EXTINF:-1,DE: Nicktoons
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/191983
+#EXTINF:-1,DE: Niederbayern TV Satellit
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18474
+#EXTINF:-1,DE: Nitro
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2104
+#EXTINF:-1,DE: Noa 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/278512
+#EXTINF:-1,DE: Noa 4 Hamburg
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/294940
+#EXTINF:-1,DE: Nrwision
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/196328
+#EXTINF:-1,DE: Oberpfalz TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281752
+#EXTINF:-1,DE: OF TV Offenbach
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286556
+#EXTINF:-1,DE: Offener Kanal Magdeburg
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18498
+#EXTINF:-1,DE: OK Kassel
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287760
+#EXTINF:-1,DE: OK Konzert
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/173530
+#EXTINF:-1,DE: OK Ludwigshafen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287761
+#EXTINF:-1,DE: OK Merseburg
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/182603
+#EXTINF:-1,DE: OK Salzwedel
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/182604
+#EXTINF:-1,DE: OK Suedwestpfalz
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/287762
+#EXTINF:-1,DE: OKD
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/278481
+#EXTINF:-1,DE: oldenburg eins
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/173525
+#EXTINF:-1,DE: One
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/5185
+#EXTINF:-1,DE: ORF1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299704
+#EXTINF:-1,DE: OTVA
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299431
+#EXTINF:-1,DE: Out TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298707
+#EXTINF:-1,DE: Paranormal
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286568
+#EXTINF:-1,DE: Parlaments Fernsehen 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/196330
+#EXTINF:-1,DE: Pearl TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18509
+#EXTINF:-1,DE: Phoenix
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1663
+#EXTINF:-1,DE: Pluto TV MTV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/294835
+#EXTINF:-1,DE: Pluto TV N24 Doku
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/294836
+#EXTINF:-1,DE: Pluto TV Nick
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/294838
+#EXTINF:-1,DE: ProSieben
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/887
+#EXTINF:-1,DE: ProSieben Fun
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2079
+#EXTINF:-1,DE: ProSieben Maxx
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2077
+#EXTINF:-1,DE: Punktum
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/280354
+#EXTINF:-1,DE: QVC Live
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/17156
+#EXTINF:-1,DE: QVC Style
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/157175
+#EXTINF:-1,DE: Radio Bremen Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290260
+#EXTINF:-1,DE: Rakuten Action Movies
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298835
+#EXTINF:-1,DE: Rakuten Comedy Movies
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298836
+#EXTINF:-1,DE: Rakuten Comedy Movies 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298837
+#EXTINF:-1,DE: Rakuten Spotlight
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298839
+#EXTINF:-1,DE: Rakuten TV Shows
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298838
+#EXTINF:-1,DE: Rakuten TV Shows 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298840
+#EXTINF:-1,DE: RAN 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/173527
+#EXTINF:-1,DE: RBB Berlin
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/41991
+#EXTINF:-1,DE: RBW
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/173528
+#EXTINF:-1,DE: Red Bull TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298708
+#EXTINF:-1,DE: Redbox Kino 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299571
+#EXTINF:-1,DE: Redbox Kino 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299572
+#EXTINF:-1,DE: Redbox kino 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299573
+#EXTINF:-1,DE: Redbox kino 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299574
+#EXTINF:-1,DE: Redbox kino 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299575
+#EXTINF:-1,DE: Redbox kino 8
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299576
+#EXTINF:-1,DE: Redbox kino 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299577
+#EXTINF:-1,DE: Redbox kino 11
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299579
+#EXTINF:-1,DE: Redbox kino 12
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299580
+#EXTINF:-1,DE: Redbox kino 13
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299581
+#EXTINF:-1,DE: Redbox kino 14
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299582
+#EXTINF:-1,DE: Redbox kino 15
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299583
+#EXTINF:-1,DE: Redbox kino 16
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299584
+#EXTINF:-1,DE: Redbox kino 17
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299585
+#EXTINF:-1,DE: Redbox kino 18
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299586
+#EXTINF:-1,DE: Redbox kino 19
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299587
+#EXTINF:-1,DE: Redbox kino 20
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299588
+#EXTINF:-1,DE: Regio TV Bodensee
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/163107
+#EXTINF:-1,DE: Regio TV Schwaben
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/163108
+#EXTINF:-1,DE: Regio TV Stuttgart
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/163109
+#EXTINF:-1,DE: Regionalfernsehen Harz
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/192656
+#EXTINF:-1,DE: RFO
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18517
+#EXTINF:-1,DE: Rhein Neckar Fernsehen (Rnf)
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/5010
+#EXTINF:-1,DE: Rheinische Fachhochschule Köln (RFH)
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/299434
+#EXTINF:-1,DE: Ric
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298709
+#EXTINF:-1,DE: Romance TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1662
+#EXTINF:-1,DE: RTL
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/890
+#EXTINF:-1,DE: RTL Crime
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2103
+#EXTINF:-1,DE: RTL Living
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/3477
+#EXTINF:-1,DE: RTL Passion
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2411
+#EXTINF:-1,DE: RTL Up
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/4402
+#EXTINF:-1,DE: RTL Zwei
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/888
+#EXTINF:-1,DE: RTL+
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/294841
+#EXTINF:-1,DE: RTL+ Sport Event 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298029
+#EXTINF:-1,DE: RTL+ Sport Event 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298030
+#EXTINF:-1,DE: RTL+ Sport Event 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298031
+#EXTINF:-1,DE: RTL+ Sport Event 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298032
+#EXTINF:-1,DE: RTL+ Sport Event 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298034
+#EXTINF:-1,DE: RTL+ Sport Event 10
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298038
+#EXTINF:-1,DE: Saarland Fernsehen 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286787
+#EXTINF:-1,DE: Saarland Fernsehen 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286788
+#EXTINF:-1,DE: Sachsen Eins
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298834
+#EXTINF:-1,DE: Sachsen fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/41982
+#EXTINF:-1,DE: Sat 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2107
+#EXTINF:-1,DE: Sat 1 Emotions
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2121
+#EXTINF:-1,DE: Sat 1 Gold
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2412
+#EXTINF:-1,DE: Schlager Deluxe
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/278321
+#EXTINF:-1,DE: Servus MotorSport
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298710
+#EXTINF:-1,DE: Servus TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2073
+#EXTINF:-1,DE: SilverLine
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/148067
+#EXTINF:-1,DE: Sixx
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2072
+#EXTINF:-1,DE: Sky 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2115
+#EXTINF:-1,DE: Sky Atlantic
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1661
+#EXTINF:-1,DE: Sky Cinema
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/291082
+#EXTINF:-1,DE: Sky Cinema +1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1660
+#EXTINF:-1,DE: Sky Cinema +24
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/4458
+#EXTINF:-1,DE: Sky Cinema 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281887
+#EXTINF:-1,DE: Sky Cinema 24
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281888
+#EXTINF:-1,DE: Sky Cinema Action
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1659
+#EXTINF:-1,DE: Sky Cinema Best Of
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2119
+#EXTINF:-1,DE: Sky Cinema Classics
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/91126
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2120
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2138
+#EXTINF:-1,DE: Sky Cinema Family
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2118
+#EXTINF:-1,DE: Sky Cinema Fun
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/91120
+#EXTINF:-1,DE: Sky Cinema Hits
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281886
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2116
+#EXTINF:-1,DE: Sky Cinema Premiere
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2117
+#EXTINF:-1,DE: Sky Cinema Premieren
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298585
+#EXTINF:-1,DE: Sky Cinema Premieren +24
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2414
+#EXTINF:-1,DE: Sky Cinema Premieren 24
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/280330
+#EXTINF:-1,DE: Sky Cinema Special
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/29070
+#EXTINF:-1,DE: Sky Cinema Thriller
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/91116
+#EXTINF:-1,DE: Sky Crime
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/291078
+#EXTINF:-1,DE: Sky Documentaries
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/291080
+#EXTINF:-1,DE: Sky Krimi
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2122
+#EXTINF:-1,DE: Sky Movies Select 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2422
+#EXTINF:-1,DE: Sky Nature
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/291079
+#EXTINF:-1,DE: Sky Replay
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/407
+#EXTINF:-1,DE: Sky Select 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281693
+#EXTINF:-1,DE: Sky Select 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2139
+#EXTINF:-1,DE: Sky Select 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2419
+#EXTINF:-1,DE: Sky Select 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/858
+#EXTINF:-1,DE: Sky Select 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/279837
+#EXTINF:-1,DE: Sky Select 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281442
+#EXTINF:-1,DE: Sky Select 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/263996
+#EXTINF:-1,DE: Sky Select 8
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281443
+#EXTINF:-1,DE: Sky Select 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2425
+#EXTINF:-1,DE: Sky Serien & Shows
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/120872
+#EXTINF:-1,DE: Sky Sport 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/202100
+#EXTINF:-1,DE: Sky Sport 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/8215
+#EXTINF:-1,DE: Sky Sport 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/72238
+#EXTINF:-1,DE: Sky Sport 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/32708
+#EXTINF:-1,DE: Sky Sport 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/13497
+#EXTINF:-1,DE: Sky Sport 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/31445
+#EXTINF:-1,DE: Sky Sport 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2133
+#EXTINF:-1,DE: Sky Sport 8
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/4489
+#EXTINF:-1,DE: Sky Sport 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/147341
+#EXTINF:-1,DE: Sky Sport 10
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/147342
+#EXTINF:-1,DE: Sky Sport Bundesliga
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2431
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298592
+#EXTINF:-1,DE: Sky Sport Bundesliga 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/4493
+#EXTINF:-1,DE: Sky Sport Bundesliga 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2135
+#EXTINF:-1,DE: Sky Sport Bundesliga 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/3513
+#EXTINF:-1,DE: Sky Sport Bundesliga 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2136
+#EXTINF:-1,DE: Sky Sport Bundesliga 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/12638
+#EXTINF:-1,DE: Sky Sport Bundesliga 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2433
+#EXTINF:-1,DE: Sky Sport Bundesliga 8
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2434
+#EXTINF:-1,DE: Sky Sport Bundesliga 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/10051
+#EXTINF:-1,DE: Sky Sport Bundesliga 10
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2432
+#EXTINF:-1,DE: Sky Sport F1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/174563
+#EXTINF:-1,DE: Sky Sport Golf
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298379
+#EXTINF:-1,DE: Sky Sport Mix
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298380
+#EXTINF:-1,DE: Sky Sport News
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1658
+#EXTINF:-1,DE: Sky Sport Premiere League
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298381
+#EXTINF:-1,DE: Sky Sport Tennis
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/297552
+#EXTINF:-1,DE: Sky Sport Top Event
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/297551
+#EXTINF:-1,DE: Sky Sports News
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/300647
+#EXTINF:-1,DE: Sofy TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286789
+#EXTINF:-1,DE: Sonnenklar TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/24698
+#EXTINF:-1,DE: Sonus FM Alemania
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/294844
+#EXTINF:-1,DE: Sony AXN
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2091
+#EXTINF:-1,DE: Sony AXN (AXN Black)
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/300642
+#EXTINF:-1,DE: Sony AXN (AXN White)
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/300999
+#EXTINF:-1,DE: Spiegel Geschichte
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1657
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/3506
+#EXTINF:-1,DE: Sport 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/290571
+#EXTINF:-1,DE: Sport 1+
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2100
+#EXTINF:-1,DE: Sportdigital Fussball
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/3509
+#EXTINF:-1,DE: SR Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18524
+#EXTINF:-1,DE: Star Wars Channel
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/169907
+#EXTINF:-1,DE: Stern Filme 1
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298615
+#EXTINF:-1,DE: Stern Filme 2
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298616
+#EXTINF:-1,DE: Stern Filme 3
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298617
+#EXTINF:-1,DE: Stern Filme 4
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298618
+#EXTINF:-1,DE: Stern Filme 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298619
+#EXTINF:-1,DE: Stern Filme 6
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298620
+#EXTINF:-1,DE: Stern Filme 7
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298621
+#EXTINF:-1,DE: Stern Filme 8
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298622
+#EXTINF:-1,DE: Stern Filme 9
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298623
+#EXTINF:-1,DE: Stern Filme 10
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298624
+#EXTINF:-1,DE: Stingray Classica
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298711
+#EXTINF:-1,DE: Super RTL
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/896
+#EXTINF:-1,DE: SWR Fernsehen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/7513
+#EXTINF:-1,DE: SYFY
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/408
+#EXTINF:-1,DE: Tagesschau 24
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1656
+#EXTINF:-1,DE: Tastemade
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/284590
+#EXTINF:-1,DE: Teen
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286572
+#EXTINF:-1,DE: Tele 5
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2439
+#EXTINF:-1,DE: The Story of Beatclub
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286573
+#EXTINF:-1,DE: TLC
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2108
+#EXTINF:-1,DE: Toggo Plus
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2145
+#EXTINF:-1,DE: Totally Turtles
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/286574
+#EXTINF:-1,DE: Transformers Channel
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/279799
+#EXTINF:-1,DE: TV Bayern
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/10506
+#EXTINF:-1,DE: TV Ingolstadt
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/166289
+#EXTINF:-1,DE: TV MainFranken
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/47596
+#EXTINF:-1,DE: TV Oberfranken
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/18493
+#EXTINF:-1,DE: TVA Ostbayern
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/8217
+#EXTINF:-1,DE: Universal TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1654
+#EXTINF:-1,DE: Victorious
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/285594
+#EXTINF:-1,DE: Vox
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/894
+#EXTINF:-1,DE: Vox Up
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/151889
+#EXTINF:-1,DE: Waidwerk
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/193759
+#EXTINF:-1,DE: Warner TV Comedy
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281763
+#EXTINF:-1,DE: Warner TV Film
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2087
+#EXTINF:-1,DE: Warner TV serie
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1655
+#EXTINF:-1,DE: WDR
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/1653
+#EXTINF:-1,DE: Wedo movies
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298712
+#EXTINF:-1,DE: Welt
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2093
+#EXTINF:-1,DE: Welt der Wunder TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/29008
+#EXTINF:-1,DE: wetter.com TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/298713
+#EXTINF:-1,DE: Wettin TV
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/297502
+#EXTINF:-1,DE: XITE
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/281767
+#EXTINF:-1,DE: ZDF
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/409
+#EXTINF:-1,DE: ZDF Info
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2069
+#EXTINF:-1,DE: ZDF Neo
+http://iptvmedia.live:8080/silversatcom/uSKcm5tNBsrJ2HZE/2070
+
